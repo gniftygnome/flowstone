@@ -32,7 +32,9 @@ bin/
 
 run/
 
-# direnv
+# java
 
-.direnv
-.envrc
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
